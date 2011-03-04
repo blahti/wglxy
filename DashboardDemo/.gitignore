@@ -1,0 +1,10 @@
+# Ignore Emacs temp files
+*~
+
+# Ignore all folders with generated files
+bin/*
+gen/*
+
+# Ignore a few more
+proguard.cfg      # not sure where this comes from
+
